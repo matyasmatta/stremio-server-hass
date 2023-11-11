@@ -1,0 +1,11 @@
+name: "Stremio Server for Home Assistant"
+description: "Runs a local Stremio server accessible via an IP port"
+version: "0.1.0-beta"
+slug: "hello_world"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
