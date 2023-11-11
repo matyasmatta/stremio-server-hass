@@ -1,6 +1,6 @@
 name: "Stremio Server for Home Assistant"
 description: "Runs a local Stremio server accessible via an IP port"
-version: "0.1.0-beta"
+version: "0.1.1-beta"
 slug: "hello_world"
 init: false
 arch:
