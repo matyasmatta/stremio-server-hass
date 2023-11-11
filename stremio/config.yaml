@@ -9,3 +9,6 @@ arch:
   - armhf
   - armv7
   - i386
+ports:
+  11470/http: 11470
+  12470/https: 12470
